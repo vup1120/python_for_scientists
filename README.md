@@ -1,4 +1,4 @@
-# Python for scientists
+# Python for Scientists
 This is a collection of notebooks for a python short course for scientists. The learning goals for these notebooks are:
 
 1. Students should feel comfortable with standard data types in python (list, string, float, int, dict, etc)
