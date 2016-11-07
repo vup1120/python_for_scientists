@@ -1,5 +1,7 @@
 # Python for Scientists
-This is a collection of notebooks for a python short course for scientists. The learning goals for these notebooks are:
+This is a collection of notebooks for a python short course for scientists. These notebooks are designed to be useful both in class and to students outside of class. Any suggestions for making them better is helpful.
+
+The learning goals for these notebooks are:
 
 1. Students should feel comfortable with standard data types in python (list, string, float, int, dict, etc)
 2. Students should be able to import data and export data using pandas
