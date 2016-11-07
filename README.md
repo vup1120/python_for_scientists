@@ -13,9 +13,13 @@ The learning goals for these notebooks are:
 
 Some notebooks may come originally from https://github.com/jvns/pandas-cookbook but have been altered for this course.
 
+# Getting started
+To get started we recommend using Anaconda: https://www.continuum.io/downloads
+
+The environment.yml file is provided to install all of the dependencies required for these notebooks.
+
 License
 =======
-
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
