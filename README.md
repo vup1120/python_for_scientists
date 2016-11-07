@@ -1,5 +1,4 @@
 # python_for_scientists
-jupyter notebooks for python course for scientists
 
 This is a collection of notebooks for a python short course for scientists. The learning goals for these notebooks are:
 
