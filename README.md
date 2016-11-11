@@ -18,6 +18,14 @@ To get started we recommend using Anaconda: https://www.continuum.io/downloads
 
 The environment.yml file is provided to install all of the dependencies required for these notebooks.
 
+## Steps to getting started
+
+1. Download Anaconda (we recommend python 3.5 version, 64-bit): https://www.continuum.io/downloads
+2. Follow installation instructions for anaconda
+3. create your new environment `conda env create -f environment.yml` : http://conda.pydata.org/docs/using/envs.html#create-a-separate-environment
+4. activate the environment
+5. download the notebooks or clone the repository and get started!
+
 License
 =======
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
